@@ -13,11 +13,6 @@ A modern, machine learning-powered application that classifies SMS messages as e
 * **Interactive GUI:** Built with `Gradio Blocks` for a clean, modern, and user-friendly experience.
 * **Real-time Predictions:** Instantly analyzes pasted text and returns an AI verdict.
 
-## 📸 Screenshot
-
-*(Pro tip: You can drag and drop an image of your working app right here when editing this file on GitHub!)*
-> Add your screenshot here (e.g., `![App Screenshot](link_to_your_image.png)`)
-
 ## 🛠️ Technologies Used
 
 * **Python** (Core language)
